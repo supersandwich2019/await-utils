@@ -1,0 +1,11 @@
+{
+  "name": "await-utils",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "git@github.com:supersandwich2019/await-utils.git",
+  "author": "supersandwich2019 <supersandwich2019@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.6.2"
+  }
+}

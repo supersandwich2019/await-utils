@@ -1,2 +1,2 @@
-# await-utils
+# await-utilitys
 Utilitys for async await
